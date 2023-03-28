@@ -7,6 +7,10 @@ This is a program that helps to control the recoil of the gun in the game rust i
 
 There is a keybind system, but I haven't removed the old keybind
 
+### How to Build
+1) Set Release and x64
+2) Build it
+
 ### Function
 1) Gun recoil
 2) Auto codelock
